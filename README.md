@@ -1,13 +1,13 @@
 # my_own_shell
 
 
-• Not interpret unclosed quotes or unspecified special characters like \ or;.
+Not interpret unclosed quotes or unspecified special characters like \ or;.
 
-• Show a prompt when waiting for a new command.
+Show a prompt when waiting for a new command.
 
-• Have a working History.
+Have a working History.
 
-• Search and launch the right executable (based on the PATH variable or by using
+Search and launch the right executable (based on the PATH variable or by using
 relative or absolute path)
 _______________________
 Implement the builtins:
