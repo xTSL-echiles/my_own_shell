@@ -36,13 +36,13 @@ _______________________
 
 Redirections:
 
-◦ < should redirect input.
+◦ < redirect input.
 
-◦ > should redirect output.
+◦ >  redirect output.
 
 ◦ “<<” read input from the current source until a line containing only the delimiter is seen. it doesn’t need to update history!
 
-◦ “>>” should redirect output with append mode.
+◦ “>>” redirect output with append mode.
 _______________________
 
 Pipes.
