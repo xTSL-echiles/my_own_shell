@@ -1,6 +1,5 @@
 # my_own_shell
 
-My first team project. 
 
 Not interpret unclosed quotes or unspecified special characters like \ or;.
 
